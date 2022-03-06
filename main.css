@@ -25,6 +25,12 @@ body {
     cursor: pointer;
 }
 
+.change-language:hover {
+    transform: scale(1.06);
+    transition: all 0.5s ease-in-out;
+    border: 0.4px dotted chocolate;
+}
+
 .quote-div {
     width: 90%;
     padding-top: 4rem;
