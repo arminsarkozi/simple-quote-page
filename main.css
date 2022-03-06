@@ -23,11 +23,22 @@ body {
 
 .quote {
     font-family: 'Julius Sans One', sans-serif;
-    font-size: 2.5rem;
+    font-size: 240%;
 }
 
 .author {
     font-family: 'Crimson Text', serif;
-    font-size: 1.5rem;
+    font-size: 150%;
     font-style: italic;
+}
+
+.change-language {
+    background-color: cornflowerblue;
+    color: white;
+    margin: 5px 5px;
+    padding: 5.5px;
+    border: 0.4px solid white;
+    border-radius: 0.4em;
+    font-weight: bold;
+    cursor: pointer;
 }
